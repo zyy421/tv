@@ -1,103 +1,74 @@
-📺浙江频道,#genre#
-浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-浙江经济,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-浙江教科,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-浙好易购,https://ali-m-l.cztv.com/channels/lantian/channel011/1080p.m3u8
-之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-宁波象山综合,http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
-萧山新闻综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8?zzhed
-绍兴新闻综合,http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8
-绍兴公共,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?zzhed
-绍兴上虞综合,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?zzhed
-上虞新商都,http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed
-义乌新闻综合,https://44911.hlsplay.aodianyun.com/tv_radio_44911/tv_channel_1796.m3u8?auth_key=4830573978-0-0-92824c2c03f95906a3c49a4aa28f1709&extra_key=Yc1XsmxOKy2UBoPM4Wy5vCPsEYqnj06taCR2SRB2Xrg2w28NPilH03KdIbbM5wgSql-VBohSnoO9AOKl94q2t2DWMftz-XB-2qUX-UjXcS80StcSZahBFjrKLivXaRjiY5r2NOMKWMKFbv-S0Bz2G6iEXgCK8yGjtrFHDcPfAQEE0pvXq0Bwy34b7We8zARN&ali_ffmpeg_version=mpengine
-诸暨新闻综合,http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed
-丽水缙云综合,http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8
-丽水龙泉综合,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
-丽水青田综合,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8?zzhed
-丽水松阳综合,http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8?zzhed
-丽水遂昌综合,http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8?zzhed
-丽水云和综合,http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
-龙游新闻综合,http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
-龙游生活娱乐,http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
-平湖新闻综合,http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8?zzhed
-衢州衢江综合,http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8?zzhed
-温州文成综合,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
+绍兴上虞综合，http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?zzhed
+上虞新商都，http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed
+湖南爱晚，http://42.48.2.223:808/hls/20/index.m3u8
+湖南经视，http://42.48.2.223:808/hls/22/index.m3u8
+湖南电视剧，http://42.48.2.223:808/hls/24/index.m3u8
+湖南卫视，http://42.48.2.223:808/hls/28/index.m3u8
+绍兴公共，http：//you mayodo。Com/video/s10001-sxtv2/index. m 3 u 8？zzheed
+萧山新闻综合，http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8?zzhed
+绍兴新闻综合，http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8
+绍兴公共，http：//you mayodo. Com/video/s10001-sxtv2/index. m 3 u 8？zzheed
+绍兴上虞综合，http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?zzhed
+浙江钱江，https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+湖南爱晚，http://42.48.2.223:808/hls/20/index.m3u8
+湖南经视，http://42.48.2.223:808/hls/22/index.m3u8
+义乌新闻综合，https：//44911。HlspAy。aodianyun. com/tv_radio_44911/tv_channel_1796 M 3 U 8？auth_key=4830573978-0-92824 C 03F 95906 A 3 C 49 A 28 F 1709&extra_key=Yc 1 xsMxxxxxx 2 UboMxxxxxx 5 wyxxxx 5 vWyqnj 2 tz-XB-XB-XB-XB-XB-2-UjzzzzjAxK 8 yzzjAxK 5 K 5 K 5 K 5 gSql-vj-vj-vj-xzAli_FFMpeng
+诸暨新闻综合，http：//l. cztvcloud。com/channels/lantian/SXzhuji3/720p. m 3 u8？zzheed
+萧山新闻综合，http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8?zzhed
+绍兴新闻综合，http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8
+绍兴公共，http：//live you. Com/video/s10001-sxtv2/index. m 3 u 8？zzheed
+绍兴上虞综合，http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?zzhed
+上虞新商都，http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed
+上虞新商都，http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed
+义乌新闻综合，https：//44911。HlspAy。aodianyun. com/tv_radio_44911/tv_channel_1796 M 3 U 8？auth_key=4830573978-0-92824 C 03F 95906 A 3 C 49 A 28 F 1709&extra_key=Yc 1 xsMxxxxxx 2 UboMxxxxxx 5 wyxxxx 5 vWyqnj 2 tz-XB-XB-XB-XB-XB-2-UjzzzzjAxK 8 yzzjAxK 5 K 5 K 5 K 5 gSql-vj-vj-vj-xzAli_FFMpeng
+湘潭综合，http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
+湘潭公共，http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8
+湖南爱晚，http://42.48.2.223:808/hls/20/index.m3u8
+湖南经视，http://42.48.2.223:808/hls/22/index.m3u8
+义乌新闻综合，https：//44911. HlspAy. aodianyun。com/tv_radio_44911/tv_channel_1796 M 3 U 8？auth_key=4830573978-0-92824 C 03F 95906 A 3 C 49 A 28 F 1709&extra_key=Yc 1 xsMxxxxxx 2 UboMxxxxxx 5 wyxxxx 5 vWyqnj 2 tz-XB-XB-XB-XB-XB-XB-XB-2-UjzzzjAxK 8 yzzjAxK 5 K 5 K 5 K 5 K 5 gSql-vj-vj-vj-xzAli_FFMpeng
+衢州衢江综合，http：//l。cztvcloud. com/channeles/lantian/SXqujiang1/720p. m 3 u8？zzheed
+绍兴新闻综合，http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8
 
-📺湖北频道,#genre#
-湖北卫视,http://42.48.2.195:808/hls/36/index.m3u8
-武汉新闻,http://stream.appwuhan.com/1tzb/sd/live.m3u8
-武汉教育,http://stream.appwuhan.com/jyzb/sd/live.m3u8
-武汉生活,http://stream.appwuhan.com/3tzb/sd/live.m3u8
-黄冈新闻,http://huanggang-live21.cjyun.org/10210/s10210-xwzh.m3u8?auth_key=1735660799-0-0-d97fed8905fc6066ed8fa063e40b13c0
-黄冈公共,http://huanggang-live21.cjyun.org/10210/s10210-xwgg.m3u8?auth_key=1735660799-0-0-39c6d712b6337fbdefe84e2d22e34513
-黄石新闻综合,https://huangshifb-live21.cjyun.org/10200/s10200-huangshitv01.m3u8?auth_key=1735660799-0-0-a2a4204859d1b4447db4050a4bc202b1
-鄂州新闻综合,http://ezhou-live21.cjyun.org/10098/s10098-EZ1T.m3u8?auth_key=1735660799-0-0-d737b8c7fad391cc6187d35123baff28
-鄂州公共,http://ezhou-live21.cjyun.org/10098/s10098-EZ2T.m3u8?auth_key=1735660799-0-0-6deee5ef6d55cce1a924b7c14a999a69
-崇阳综合,http://61.184.176.248:10500/live/live.m3u8
-十堰新闻综合,http://p8.vzan.com/slowlive/034028687228317362/live.m3u8
-荆门新闻综合,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8?zhubd
-荆门科教文旅,http://stream.jmtv.com.cn/ggsh/sd/live.m3u8
-江夏新闻综合,http://59.175.226.142:280/gb28181/xwzh.m3u8
-咸宁综合,http://xianning-live21.cjyun.org/10140/s10140-XNTV-1.m3u8?auth_key=1735660799-0-0-b380d98b910466afbd9053c25a7dc408
-咸宁经济生活,http://xianning-live21.cjyun.org/10140/s10140-XNGG.m3u8?auth_key=1735660799-0-0-d81f4b2fc33920d8341033fef8dcfd16
-赤壁一套,http://chibi-live21.cjyun.org/10138/s10138-CBTV1.m3u8?auth_key=1735660799-0-0-1751de0a4678e4571fe2af86220e2a2b
-嘉鱼新闻综合,http://jiayu-live21.cjyun.org/10131/s10131-jyzh.m3u8?auth_key=1735660799-0-0-05395acf38fa1497c0985dcb4c329c0b
-孝感新闻综合,http://xiaogan-live21.cjyun.org/10139/s10139-xg.m3u8?auth_key=1735660799-0-0-c66126a1e65c45cfa675dd5f16914315
-孝昌新闻党建,http://xiaochang-live21.cjyun.org/10128/s10128-xcxw.m3u8?auth_key=1735660799-0-0-886396e7a9ce6f90ecdbfdf669624539
-大悟综合,http://yunshangdawu-live21.cjyun.org/10129/s10129-dwzhpd.m3u8?auth_key=1735660799-0-0-b1bf1625df01ea7dabc97bf7aa7f253d
-应城综合,http://yingcheng-live21.cjyun.org/10135/s10135-YCZH.m3u8?auth_key=1735660799-0-0-b43106dd66cd5d9c827699f0b0204306
-荆州新闻,http://jingzhou-live21.cjyun.org/10085/s10085-jingzhou-tv01.m3u8?auth_key=1735660799-0-0-e0477d4b5bc584e7518a1bde13892cbe
-荆州垄上,http://jingzhou-live21.cjyun.org/10085/s10085-jingzhou-tv03.m3u8?auth_key=1735660799-0-0-73625822ff2c77aefa1589e94281edad
-松滋综合,http://songzi-live21.cjyun.org/10194/s10194-songzi-tv1.m3u8?auth_key=1735660799-0-0-a380e59865129a39561528ada31d0e63
-钟祥综合,http://zhongxiang-live21.cjyun.org/10103/s10103-zxtv.m3u8?auth_key=1735660799-0-0-bffe4fb8f0bb7142075cb559396d23cc
-谷城综合,http://gucheng-live21.cjyun.org/10116/s10116-GCTV1.m3u8?auth_key=1735660799-0-0-54db49cb2f7940e29d9dfceb9747b0af
-宜昌综合,http://yichang-live21.cjyun.org/10091/10091-yczh.m3u8?auth_key=1735660799-0-0-152a9f6a201d7d56428feae52d4b18b8
-宜昌旅游生活,http://yichang-live21.cjyun.org/10091/s10091-ycly.m3u8?auth_key=1735660799-0-0-3232283b7b347bb21b712ea8398761d1
-宜都综合,http://yidushi-live21.cjyun.org/10092/s10092-yidushitv01.m3u8?auth_key=1735660799-0-0-f29f0d99f876e49e55132b30d52133db
-长阳综合,http://changyang-live21.cjyun.org/10114/s10114-cy1t.m3u8?auth_key=1735660799-0-0-f8867ea6ca06a65bdf95048518db1f6a
-远安电视台,http://yuanan-live21.cjyun.org/10106/s10106-yatv.m3u8?auth_key=1735660799-0-0-fdcac90185009731b8e6f51f180ed7b4
-当阳电视台,http://dangyang-live21.cjyun.org/10118/s10118-DYZH.m3u8?auth_key=1735660799-0-0-f8e56d713bf81af226bae8057d9a1bad
-秭归综合,http://zigui-live21.cjyun.org/10111/s10111-ZGTV1.m3u8?auth_key=1735660799-0-0-e80e38a154f9ea053e26d2ff5038530a
-五峰电视台,http://wufeng-live21.cjyun.org/10112/s10112-wffm.m3u8?auth_key=1735660799-0-0-6e0f896e48713ad894a3b35b92780628
-枝江综合,http://zhijiang-live21.cjyun.org/10120/s10120-zjtv.m3u8?auth_key=1735660799-0-0-fd9715217b53a31e92b5d42d24438b4a
-来凤综合,http://laifeng-live21.cjyun.org/10099/s10099-lftv01.m3u8?auth_key=1735660799-0-0-b92e243bcdd451ba46874699b392247e
-广水新闻,http://guangshui-live21.cjyun.org/10146/s10146-GSXW.m3u8?auth_key=1735660799-0-0-c7c7082aa48ecb78ed13d8a4a9b45acc
+绍兴公共，http：//you mayodo。Com/video/s10001-sxtv2/index. m 3 u 8？zzheed
+绍兴上虞综合，http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?zzhed
+浙江钱江，https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+湖南爱晚，http://42.48.2.223:808/hls/20/index.m3u8
+湖南经视，http://42.48.2.223:808/hls/22/index.m3u8
+义乌新闻综合，https：//44911. HlspAy. aodianyun。com/tv_radio_44911/tv_channel_1796 M 3 U 8？auth_key=4830573978-0-92824 C 03F 95906 A 3 C 49 A 28 F 1709&extra_key=Yc 1 xsMxxxxxx 2 UboMxxxxxx 5 wyxxxx 5 vWyqnj 2 tz-XB-XB-XB-XB-XB-XB-XB-2-UjzzzjAxK 8 yzzjAxK 5 K 5 K 5 K 5 K 5 gSql-vj-vj-vj-xzAli_FFMpeng
+诸暨新闻综合，http：//l。cztvcloud. com/channels/lantian/SXzhuji3/720p. m 3 u8？zzheed
+萧山新闻综合，http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8?zzhed
+绍兴新闻综合，http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8
+江夏新闻综合，http://59.175.226.142:280/gb28181/xwzh.m3u8
 
-📺湖南频道,#genre#
-湖南卫视,http://42.48.2.223:808/hls/28/index.m3u8
-金鹰卡通,http://42.48.2.223:808/hls/17/index.m3u8
-湖南娱乐,http://42.48.2.223:808/hls/18/index.m3u8
-金鹰纪实,http://42.48.2.223:808/hls/19/index.m3u8
-湖南爱晚,http://42.48.2.223:808/hls/20/index.m3u8
-湖南教育,http://42.48.2.223:808/hls/21/index.m3u8
-湖南经视,http://42.48.2.223:808/hls/22/index.m3u8
-湖南都市,http://42.48.2.223:808/hls/23/index.m3u8
-湖南电视剧,http://42.48.2.223:808/hls/24/index.m3u8
-湖南电影,http://42.48.2.223:808/hls/25/index.m3u8
-湘潭综合,http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
-湘潭公共,http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8
+绍兴公共，http：//直播你。Com/video/s10001-sxtv2/index. m 3 u 8？zzheed
+绍兴上虞综合，http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?zzhed
+上虞新商都，http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed
+上虞新商都，http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed
+义乌新闻综合，https：//44911. HlspAy. aodianyun。com/tv_radio_44911/tv_channel_1796 M 3 U 8？auth_key=4830573978-0-92824 C 03F 95906 A 3 C 49 A 28 F 1709&extra_key=Yc 1 xsMxxxxxx 2 UboMxxxxxx 5 wyxxxx 5 vWyqnj 2 tz-XB-XB-XB-XB-XB-XB-XB-2-UjzzzjAxK 8 yzzjAxK 5 K 5 K 5 K 5 K 5 gSql-vj-vj-vj-xzAli_FFMpeng
+湘潭综合，http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
+浙江钱江，https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+上虞新商都，http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed
+浙江卫视，https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+湖南电影，http://42.48.2.223:808/hls/25/index.m3u8
+诸暨新闻综合，http：//l. cztvcloud。com/channels/lantian/SXzhuji3/720p. m 3 u8？zzheed
+湘潭综合，http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
+湘潭公共，http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8
 
-📡全国卫视,#genre#
-湖南卫视,http://42.48.2.223:808/hls/28/index.m3u8
-北京卫视,http://42.48.2.223:808/hls/29/index.m3u8
-深圳卫视,http://42.48.2.223:808/hls/30/index.m3u8
-浙江卫视,http://42.48.2.223:808/hls/31/index.m3u8
-广东卫视,http://42.48.2.223:808/hls/32/index.m3u8
-广西卫视,http://42.48.2.223:808/hls/33/index.m3u8
-江苏卫视,http://42.48.2.223:808/hls/34/index.m3u8
-东方卫视,http://42.48.2.223:808/hls/35/index.m3u8
-湖北卫视,http://42.48.2.223:808/hls/36/index.m3u8
-安徽卫视,http://42.48.2.223:808/hls/37/index.m3u8
-辽宁卫视,http://42.48.2.223:808/hls/38/index.m3u8
-黑龙江卫视,http://42.48.2.223:808/hls/39/index.m3u8
-天津卫视,http://42.48.2.223:808/hls/40/index.m3u8
-重庆卫视,http://42.48.2.223:808/hls/41/index.m3u8
+全国卫视，#流派#
+湖南卫视，http://42.48.2.223:808/hls/28/index.m3u8
+北京卫视，http://42.48.2.223:808/hls/29/index.m3u8
+深圳卫视，http://42.48.2.223:808/hls/30/index.m3u8
+浙江卫视，http://42.48.2.223:808/hls/31/index.m3u8
+广东卫视，http://42.48.2.223:808/hls/32/index.m3u8
+广西卫视，http://42.48.2.223:808/hls/33/index.m3u8
+江苏卫视，http://42.48.2.223:808/hls/34/index.m3u8
+东方卫视，http://42.48.2.223:808/hls/35/index.m3u8
+湖北卫视，http://42.48.2.223:808/hls/36/index.m3u8
+安徽卫视，http://42.48.2.223:808/hls/37/index.m3u8
+辽宁卫视，http://42.48.2.223:808/hls/38/index.m3u8
+黑龙江卫视，http://42.48.2.223:808/hls/39/index.m3u8
+天津卫视，http://42.48.2.223:808/hls/40/index.m3u8
+重庆卫视，http://42.48.2.223:808/hls/41/index.m3u8
 四川卫视,http://42.48.2.223:808/hls/42/index.m3u8
 东南卫视,http://42.48.2.223:808/hls/43/index.m3u8
 江西卫视,http://42.48.2.223:808/hls/44/index.m3u8
